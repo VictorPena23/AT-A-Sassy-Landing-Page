@@ -17,13 +17,13 @@
   }
   
   .btn-primary {
-    background-color: #e9e5f2;
-    color: black;
+    background-color: #3b200d;
+    color: rgb(242, 234, 234);
   }
   
   .btn-secondary {
-    background-color: #d4aaa5;
-    color: black;
+    background-color: #3b200d;
+    color: rgb(238, 227, 227);
   }
   
   .box {
@@ -55,7 +55,7 @@
   }
   
   .hero {
-    background-color: #7DC8CA;
+    background-color: #afafaf;
     color: white;
     height: 600px;
   }
@@ -80,7 +80,7 @@
   }
   
   .hero nav a:hover {
-    color: #a2d0fc;
+    color: #916d44;
   }
   
   .hero-content {
